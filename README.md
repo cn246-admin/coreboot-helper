@@ -1,5 +1,8 @@
-# Coreboot build helper
+#Coreboot build helper
 I wrote this to assist in building a custom coreboot rom for Lenovo x230. 
+
+**Note:** I haven't used this in a while. For example, my latest Coreboot builds,
+I no longer use the zerocat or other custom configs.
 
 ## What it do
 So far, it will:
